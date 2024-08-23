@@ -10,7 +10,7 @@ export default function Work3() {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="title-ss wow fadeInUp">
-                                <h3>HOW TO <span>BINABOX</span> WORK</h3>
+                                <h3>HOW TO <span>THETA</span> WORK</h3>
                             </div>
                         </div>
                         <div className="col-xl-3 col-md-6 ">

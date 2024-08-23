@@ -29,7 +29,7 @@ export default function Slider1() {
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    ' BINABOX',
+                                                                    ' THETA',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
                                                                     ' NFTBOX',
                                                                     1000,
@@ -62,7 +62,19 @@ export default function Slider1() {
                                                         </div>
                                                     </div>
                                                     <div className="btn-slider ">
-                                                        <Link href="#" className="tf-button " data-toggle="modal" data-target="#popup_bid">CONNECT WALLET</Link>
+                                                    <Link
+  href="#"
+  className="tf-button"
+  onClick={() => {
+    if (window.ethereum) {
+      window.ethereum.request({ method: 'eth_requestAccounts' });
+    } else {
+      alert('MetaMask is not installed!');
+    }
+  }}
+>
+  CONNECT WALLET
+</Link>
                                                         <Link href="/collection" className="tf-button style-2">WHITELIST
                                                             NOW</Link>
                                                     </div>
@@ -84,7 +96,7 @@ export default function Slider1() {
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    ' BINABOX',
+                                                                    ' THETA',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
                                                                     ' NFTBOX',
                                                                     1000,
@@ -99,9 +111,9 @@ export default function Slider1() {
                                                             </TypeAnimation>
                                                         </span>
                                                     </h1>
-                                                    <h1 className="heading"> EXPLORE NFT COLLECTION </h1>
-                                                    <p className="sub-heading">We are the best way to check the rarity of
-                                                        NFT collection</p>
+                                                    <h1 className="heading"> EXPLORE ASTROLOGY NFT</h1>
+                                                    <p className="sub-heading">ASTROLOGY
+                                                        NFT</p>
                                                     <div className="counter-wrap">
                                                         <div className="tf-counter">
                                                             <div className="content">

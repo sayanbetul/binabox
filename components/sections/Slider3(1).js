@@ -29,7 +29,7 @@ export default function Slider3() {
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    ' BINABOX',
+                                                                    ' THETA',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
                                                                     ' NFTBOX',
                                                                     1000,
@@ -44,9 +44,8 @@ export default function Slider3() {
                                                             </TypeAnimation>
                                                         </span>
                                                     </h1>
-                                                    <h1 className="heading"> EXPLORE NFT COLLECTION </h1>
-                                                    <p className="sub-heading">We are the best way to check the rarity of
-                                                        NFT collection</p>
+                                                    <h1 className="heading"> EXPLORE ASTROLOGY NFT </h1>
+                                                    <p className="sub-heading">ASTROLOGY NFT </p>
                                                     <div className="counter-wrap">
                                                         <div className="tf-counter">
                                                             <div className="content">
@@ -84,7 +83,7 @@ export default function Slider3() {
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    ' BINABOX',
+                                                                    ' THETA',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
                                                                     ' NFTBOX',
                                                                     1000,

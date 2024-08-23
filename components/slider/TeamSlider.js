@@ -40,7 +40,7 @@ export default function TeamSlider() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-1.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Ralph Edwards</Link></h4>
+                                <h4 className="name"><Link href="/team">BETÜL SAYAN</Link></h4>
                                 <p className="position">Founder</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
@@ -57,8 +57,8 @@ export default function TeamSlider() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-2.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Jason Smith</Link></h4>
-                                <p className="position">Co - Founder</p>
+                                <h4 className="name"><Link href="/team">MELİH GÜNDÜZ</Link></h4>
+                                <p className="position">CTO</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                     <li><Link href="#"><i className="fab fa-facebook" /></Link></li>

@@ -47,8 +47,8 @@ export default function About2() {
                     <div className="row ">
                         <div className="col-xl-6 col-lg-5 col-md-12 ">
                             <div className="tf-heading style-2 wow fadeInUp">
-                                <h2 className="heading">THE STORY</h2>
-                                <p className="sub-heading">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat</p>
+                                <h3 className="heading"> Discover Your Celestial Identity! </h3>
+                                <p className="sub-heading"></p>
                             </div>
                             <div className="counter-wrap">
                                 <div className="tf-counter wow fadeInUp">
@@ -74,9 +74,9 @@ export default function About2() {
                                             <div className="sub-number">
                                                 01
                                             </div>
-                                            <h3>high quaility</h3>
+                                            <h3>Mint Astrological NFT</h3>
                                         </div>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                        <p></p>
                                     </div>
                                 </div>
                                 <div className="col-md-6">
@@ -87,7 +87,7 @@ export default function About2() {
                                             </div>
                                             <h3>BIG COLLECTION</h3>
                                         </div>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                        <p></p>
                                     </div>
                                 </div>
                                 <div className="col-md-6">
@@ -96,9 +96,9 @@ export default function About2() {
                                             <div className="sub-number">
                                                 03
                                             </div>
-                                            <h3>TOP RESOURCE</h3>
+                                            <h3></h3>
                                         </div>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                        <p> </p>
                                     </div>
                                 </div>
                                 <div className="col-md-6">
@@ -109,7 +109,7 @@ export default function About2() {
                                             </div>
                                             <h3>BIG COMMUNITY</h3>
                                         </div>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                        <p>. </p>
                                     </div>
                                 </div>
                             </div>

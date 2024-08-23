@@ -85,7 +85,7 @@ export default function Roadmap3() {
                                                                     </clipPath>
                                                                 </defs>
                                                             </svg></div>
-                                                            Befriending &amp; Chat Functions
+                                                         &amp; 
                                                         </li>
                                                         <li>
                                                             <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -179,7 +179,7 @@ export default function Roadmap3() {
                                                     </svg>
                                                 </div>
                                                 <div className="content">
-                                                    <h4 className="title">PHASE 2</h4>
+                                                    <h4 className="title">PHASE 3</h4>
                                                     <ul className="list-infor">
                                                         <li>
                                                             <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -205,7 +205,7 @@ export default function Roadmap3() {
                                                                     </clipPath>
                                                                 </defs>
                                                             </svg></div>
-                                                            Befriending &amp; Chat Functions
+                                                            Build backend &amp; APIs.
                                                         </li>
                                                         <li>
                                                             <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -231,7 +231,7 @@ export default function Roadmap3() {
                                                                     </clipPath>
                                                                 </defs>
                                                             </svg></div>
-                                                            Challenging Feature
+                                                            Design UI and implement core features
                                                         </li>
                                                         <li>
                                                             <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -257,7 +257,7 @@ export default function Roadmap3() {
                                                                     </clipPath>
                                                                 </defs>
                                                             </svg></div>
-                                                            Corsair Wheel
+                                                            Integrate Theta tokens and smart contracts
                                                         </li>
                                                         <li>
                                                             <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -283,7 +283,7 @@ export default function Roadmap3() {
                                                                     </clipPath>
                                                                 </defs>
                                                             </svg></div>
-                                                            Mobile Version Launch
+                                                            Perform testing
                                                         </li>
                                                     </ul>
                                                 </div>

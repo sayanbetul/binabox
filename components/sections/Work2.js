@@ -10,7 +10,7 @@ export default function Work2() {
                     <div className="row">
                         <div className="col-md-12 ">
                             <div className="tf-heading mb60 wow fadeInUp">
-                                <h2 className="heading">HOW TO <span> BINABOX </span>WORK</h2>
+                                <h2 className="heading">HOW TO <span> THETA </span>WORK</h2>
                             </div>
                         </div>
                         <div className="col-lg-3 col-md-6 col-sm-6 ">

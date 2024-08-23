@@ -46,11 +46,8 @@ export default function About1() {
                                 </svg>
                             </div>
                             <div className="tf-heading wow fadeInUp">
-                                <h2 className="heading">ABOUT US</h2>
-                                <p className="sub-heading">Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non
-                                    proident, sunt in culpa qui officia dese runt mollit anim id est laborum velit esse
-                                    cillum dolore eu fugiat nulla pariatu epteur sint occaecat</p>
+                                <h2 className="heading"> </h2>
+                                <p className="sub-heading"></p>
                             </div>
                             <div className="counter-wrap wow fadeInUp" data-wow-delay="0.2s">
                                 <div className="tf-counter ">
@@ -73,9 +70,9 @@ export default function About1() {
                                     <div className="sub-number">
                                         01
                                     </div>
-                                    <h3>high quaility</h3>
+                                    <h3>THETA</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p> </p>
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12">
@@ -84,9 +81,9 @@ export default function About1() {
                                     <div className="sub-number">
                                         02
                                     </div>
-                                    <h3>BIG COLLECTION</h3>
+                                    <h3> COLLECTIBLES</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p></p>
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12">
@@ -97,7 +94,7 @@ export default function About1() {
                                     </div>
                                     <h3>TOP RESOURCE</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p> </p>
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12">
@@ -108,7 +105,7 @@ export default function About1() {
                                     </div>
                                     <h3>BIG COMMUNITY</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p></p>
                             </div>
                         </div>
                     </div>

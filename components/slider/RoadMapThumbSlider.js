@@ -70,7 +70,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                        Market Research &amp; Technology and Architecture Selection
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -101,7 +101,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Challenging Feature
+                                        Research and Planning
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -132,7 +132,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Corsair Wheel
+                                        Initial Prototype
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -186,7 +186,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 2</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -217,7 +217,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                        •	Build backend &amp; APIs
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -248,7 +248,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Challenging Feature
+                                    	Design UI and implement core features
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -279,7 +279,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Corsair Wheel
+                                        Integrate Theta tokens and smart contracts
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -310,7 +310,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Mobile Version Launch
+                                    Testing
                                     </li>
                                 </ul>
                                 <Link href="/item-detail" className="tf-button style-2">READ MORE</Link>
@@ -333,7 +333,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 3</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -364,7 +364,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                        Beta Launch
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -395,7 +395,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Challenging Feature
+                                        Release to limited users for feedback
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -426,7 +426,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Corsair Wheel
+                                        Fix bugs and conduct a security audit
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -457,7 +457,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Mobile Version Launch
+                                        Testing
                                     </li>
                                 </ul>
                                 <Link href="/item-detail" className="tf-button style-2">READ MORE</Link>
@@ -480,7 +480,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 4</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -511,7 +511,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                        Full Launch 
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -542,7 +542,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Challenging Feature
+                                        Launch to a broader audience
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -573,7 +573,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Corsair Wheel
+                                        Implement marketing strategies
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -604,7 +604,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Mobile Version Launch
+                                        Establish user support
                                     </li>
                                 </ul>
                                 <Link href="/item-detail" className="tf-button style-2">READ MORE</Link>
@@ -627,7 +627,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 5</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -658,7 +658,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                        Continuous Improvement 
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -689,7 +689,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Challenging Feature
+                                        Add new features
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -720,7 +720,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Corsair Wheel
+                                        Optimize performance
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -751,7 +751,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Mobile Version Launch
+                                    	Engage with the community for feedback
                                     </li>
                                 </ul>
                                 <Link href="/item-detail" className="tf-button style-2">READ MORE</Link>
@@ -774,7 +774,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 6</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -921,7 +921,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 7</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -1068,7 +1068,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 8</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -1215,7 +1215,7 @@ export default function RoadMapThumbSlider() {
                                 </div>
                             </div>
                             <div className="content-right">
-                                <h3>PHASE 1</h3>
+                                <h3>PHASE 9</h3>
                                 <ul className="list-infor">
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">

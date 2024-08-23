@@ -24,16 +24,16 @@ export default function Slider1() {
                                         <div className="slider-item">
                                             <div className="tf-slider-item style-3">
                                                 <div className="content-inner">
-                                                    <h1 className="heading mb0">WITH
+                                                <h1 className="heading mb0" style={{ color: '#000' }}> Discover 
                                                         <span className="animationtext clip">
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    ' BINABOX',
+                                                                    ' THETA',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                                                    ' NFTBOX',
+                                                                    ' NFT',
                                                                     1000,
-                                                                    ' BOXNFT',
+                                                                    ' COLLECTION',
                                                                     1000,
                                                                 ]}
                                                                 wrapper="span"
@@ -44,25 +44,37 @@ export default function Slider1() {
                                                             </TypeAnimation>
                                                         </span>
                                                     </h1>
-                                                    <h1 className="heading"> EXPLORE NFT COLLECTION </h1>
-                                                    <p className="sub-heading">We are the best way to check the rarity of
-                                                        NFT collection</p>
+                                                    <h1 className="heading "style={{ color: '#000' }}> Your Celestial Identity!</h1>
+                                                    <p className="sub-heading" style={{ color: '#000' }}>ASTROLOGY
+                                                        NFT</p>
                                                     <div className="counter-wrap">
                                                         <div className="tf-counter">
                                                             <div className="content">
-                                                                <CounterUp count={2240} />+
+                                                                <CounterUp count={2240} style={{ color: '#000' }}/>+
                                                             </div>
-                                                            <h6>Total Iteam</h6>
+                                                            <h6 style={{ color: '#000' }}>Total Iteam</h6>
                                                         </div>
                                                         <div className="tf-counter">
                                                             <div className="content">
-                                                                <CounterUp count={1000} />+
+                                                                <CounterUp count={1000} style={{ color: '#000' }}/>+
                                                             </div>
-                                                            <h6>Profiles Whitelisted</h6>
+                                                            <h6 style={{ color: '#000' }}>Profiles Whitelisted</h6>
                                                         </div>
                                                     </div>
                                                     <div className="btn-slider ">
-                                                        <Link href="#" className="tf-button " data-toggle="modal" data-target="#popup_bid">CONNECT WALLET</Link>
+                                                    <Link
+  href="#"
+  className="tf-button"
+  onClick={() => {
+    if (window.ethereum) {
+      window.ethereum.request({ method: 'eth_requestAccounts' });
+    } else {
+      alert('MetaMask is not installed!');
+    }
+  }}
+>
+  CONNECT WALLET
+</Link>
                                                         <Link href="/collection" className="tf-button style-2">WHITELIST
                                                             NOW</Link>
                                                     </div>
@@ -84,7 +96,7 @@ export default function Slider1() {
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    ' BINABOX',
+                                                                    ' THETA',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
                                                                     ' NFTBOX',
                                                                     1000,
@@ -99,9 +111,9 @@ export default function Slider1() {
                                                             </TypeAnimation>
                                                         </span>
                                                     </h1>
-                                                    <h1 className="heading"> EXPLORE NFT COLLECTION </h1>
-                                                    <p className="sub-heading">We are the best way to check the rarity of
-                                                        NFT collection</p>
+                                                    <h1 className="heading"> EXPLORE ASTROLOGY NFT </h1>
+                                                    <p className="sub-heading">
+                                                      </p>
                                                     <div className="counter-wrap">
                                                         <div className="tf-counter">
                                                             <div className="content">

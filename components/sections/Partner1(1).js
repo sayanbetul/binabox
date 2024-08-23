@@ -29,7 +29,7 @@ export default function Partner1() {
                     <div className="row">
                         <div className="col-md-12 ">
                             <div className="tf-heading mb60 wow fadeInUp">
-                                <h2 className="heading"><span>BINABOX</span> PARTNER</h2>
+                                <h2 className="heading"><span>THETA</span> PARTNER</h2>
                             </div>
                         </div>
                         <div className="col-md-12 wow fadeInUp">

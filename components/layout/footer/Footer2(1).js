@@ -10,7 +10,7 @@ export default function Footer2() {
                         <div className="row">
                             <div className="col-md-12">
                                 <h2 className="title">JOIN OUR COMMUNITY</h2>
-                                <p className="content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p className="content"> </p>
                                 <div className="group-btn">
                                     <Link href="#" className="tf-button discord" data-toggle="modal" data-target="#popup_bid"><i className="icon-fl-vt" /><span>DISCORD</span></Link>
                                     <Link href="/collection" className="tf-button">WHITELIST NOW</Link>
@@ -38,7 +38,7 @@ export default function Footer2() {
                                 <div className="bottom">
                                     <div className="content-left">
                                         <img src="/assets/images/logo/logo-bottom.png" alt="Image" />
-                                        <p className="copy-right">BINABOX {new Date().getFullYear()} - ALL rights reserved</p>
+                                        <p className="copy-right">THETA {new Date().getFullYear()} - ALL rights reserved</p>
                                     </div>
                                     <ul className="menu-bottom">
                                         <li><Link href="/">Home</Link></li>

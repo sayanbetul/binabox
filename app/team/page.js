@@ -50,11 +50,11 @@ export default function Team() {
                                 </div>
                                 <div className="col-md-6">
                                     <div className="content-detail">
-                                        <p className="position">WEB DESIGNER</p>
-                                        <h2 className="name">Tony Wings</h2>
+                                        <p className="position">FOUNDER</p>
+                                        <h2 className="name">BETÜL SAYAN</h2>
                                         <h3 className="title">About</h3>
                                         <p className="description">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                           Founder of Theta Collectibles.
                                         </p>
                                         <h3 className="title mb14">Contact</h3>
                                         <div className="contact-infor">
@@ -62,20 +62,20 @@ export default function Team() {
                                                 <span className="icon">
                                                     <img src="/assets/images/svg/email-2.svg" alt="Image" />
                                                 </span>
-                                                <p>Info@yourcompany.com</p>
+                                                <p>betulsayan0@gmail.com</p>
                                             </div>
                                             <div className="contact-infor-box">
                                                 <span className="icon">
                                                     <img src="/assets/images/svg/phone-2.svg" alt="Image" />
                                                 </span>
-                                                <p>+84 0977425031</p>
+                                                <p>+90 5424683643</p>
                                             </div>
                                         </div>
                                         <ul className="social-item">
-                                            <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
-                                            <li><Link href="#"><i className="fab fa-telegram-plane" /></Link></li>
-                                            <li><Link href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                            <li><Link href="https://x.com/BSayan26990"><i className="fab fa-twitter" /></Link></li>
+                                            <li><Link href="https://t.me/venus096"><i className="fab fa-facebook" /></Link></li>
+                                            <li><Link href="https://t.me/venus096"><i className="fab fa-telegram-plane" /></Link></li>
+                                            <li><Link href="https://www.linkedin.com/in/betul-sayan/"><i className="fab fa-linkedin-in" /></Link></li>
                                         </ul>
                                         <div className="group-btn">
                                             <div className="swiper-button-prev button-team-detail-prev" />
@@ -117,7 +117,9 @@ export default function Team() {
                                         <div className="image">
                                             <img src="/assets/images/team/team-1.jpg" alt="Image" />
                                         </div>
-                                        <h4 className="name"><Link href="/team">Ralph Edwards</Link></h4>
+                                        <h4 className="name"><Link href="/team">BETÜL
+
+BETÜL</Link></h4>
                                         <p className="position">Founder</p>
                                         <ul className="social">
                                             <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
@@ -132,8 +134,8 @@ export default function Team() {
                                         <div className="image">
                                             <img src="/assets/images/team/team-2.jpg" alt="Image" />
                                         </div>
-                                        <h4 className="name"><Link href="/team">Jason Smith</Link></h4>
-                                        <p className="position">Co - Founder</p>
+                                        <h4 className="name"><Link href="/team">MELİH GÜNDÜZ</Link></h4>
+                                        <p className="position">CTO</p>
                                         <ul className="social">
                                             <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                             <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
@@ -243,7 +245,7 @@ export default function Team() {
                             <div className="row">
                                 <div className="col-md-12 ">
                                     <div className="tf-heading mb60">
-                                        <h2 className="heading"><span>BINABOX</span> PARTNER</h2>
+                                        <h2 className="heading"><span>THETA</span> PARTNER</h2>
                                     </div>
                                 </div>
                                 <div className="col-md-12 ">

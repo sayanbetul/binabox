@@ -38,7 +38,7 @@ export default function Footer2() {
                                 <div className="bottom">
                                     <div className="content-left">
                                         <img src="/assets/images/logo/logo-bottom.png" alt="Image" />
-                                        <p className="copy-right">BINABOX {new Date().getFullYear()} - ALL rights reserved</p>
+                                        <p className="copy-right">THETA {new Date().getFullYear()} - ALL rights reserved</p>
                                     </div>
                                     <ul className="menu-bottom">
                                         <li><Link href="/">Home</Link></li>

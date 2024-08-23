@@ -29,10 +29,7 @@ export default function About3() {
                         <div className="col-md-12">
                             <div className="title-ss wow fadeInUp">
                                 <h3>ABOUT US</h3>
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                    fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in
-                                    culpa qui officia dese runt mollit anim id est laborum velit esse cillum dolore eu
-                                    fugiat nulla pariatu epteur sint occaecat</p>
+                                <p></p>
                             </div>
                         </div>
                         <div className="col-md-6 col-sm-6">
@@ -41,9 +38,9 @@ export default function About3() {
                                     <div className="sub-number">
                                         01
                                     </div>
-                                    <h3>high quaility</h3>
+                                    <h3></h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry. </p>
+                                <p></p>
                             </div>
                         </div>
                         <div className="col-md-6 col-sm-6">
@@ -54,7 +51,7 @@ export default function About3() {
                                     </div>
                                     <h3>BIG COLLECTION</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry. </p>
+                                <p> </p>
                             </div>
                         </div>
                         <div className="col-md-6 col-sm-6">
@@ -65,7 +62,7 @@ export default function About3() {
                                     </div>
                                     <h3>TOP RESOURCE</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry. </p>
+                                <p> </p>
                             </div>
                         </div>
                         <div className="col-md-6 col-sm-6">
@@ -76,7 +73,7 @@ export default function About3() {
                                     </div>
                                     <h3>BIG COMMUNITY</h3>
                                 </div>
-                                <p>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry. </p>
+                                <p>BETÜL SAYAN </p>
                             </div>
                         </div>
                         <div className="col-md-12 wow fadeInUp">

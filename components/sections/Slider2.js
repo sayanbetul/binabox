@@ -28,11 +28,23 @@ export default function Slider2() {
                                 <div className="tf-slider-item style-2">
                                     <div className="overlay"><img src="/assets/images/slider/bg-slider-2.jpg" alt="image" /></div>
                                     <div className="content-inner">
-                                        <h1 className="heading">EXPLORE NFT COLLECTION
+                                        <h1 className="heading">EXPLORE ASTROLOGY NFT COLLECTION
                                         </h1>
-                                        <p className="sub-heading">We are the best way to check the rarity of NFT collection</p>
+                                        <p className="sub-heading">EXPLORE</p>
                                         <div className="btn-slider ">
-                                            <Link href="/explore-banner" className="tf-button ">CONNECT WALLET</Link>
+                                        <Link
+  href="#"
+  className="tf-button"
+  onClick={() => {
+    if (window.ethereum) {
+      window.ethereum.request({ method: 'eth_requestAccounts' });
+    } else {
+      alert('MetaMask is not installed!');
+    }
+  }}
+>
+  CONNECT WALLET
+</Link>
                                             <Link href="/add-NFT" className="tf-button style-2">WHITELIST NOW</Link>
                                         </div>
                                     </div>
@@ -44,9 +56,9 @@ export default function Slider2() {
                                 <div className="tf-slider-item style-2">
                                     <div className="overlay"><img src="/assets/images/slider/bg-slider-3.jpg" alt="image" /></div>
                                     <div className="content-inner">
-                                        <h1 className="heading">EXPLORE NFT COLLECTION
+                                        <h1 className="heading">EXPLORE ASTROLOGY NFT COLLECTION
                                         </h1>
-                                        <p className="sub-heading">We are the best way to check the rarity of NFT collection</p>
+                                        <p className="sub-heading">EXPLORE</p>
                                         <div className="btn-slider ">
                                             <Link href="/explore-banner" className="tf-button ">CONNECT WALLET</Link>
                                             <Link href="/add-NFT" className="tf-button style-2">WHITELIST NOW</Link>

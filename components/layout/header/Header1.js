@@ -32,8 +32,19 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
                                 <div className="header-right">
                                     <ThemeSwitch />
                                     <Link href="/contact" className="tf-button discord"><i className="icon-fl-vt" /><span>DISCORD</span></Link>
-                                    <a onClick={handleModal} className="tf-button connect" data-toggle="modal" data-target="#popup_bid">
-                                        <i className="icon-fl-wallet" /><span>CONNECT</span></a>
+                                    <a
+  onClick={() => {
+    if (window.ethereum) {
+      window.ethereum.request({ method: 'eth_requestAccounts' });
+    } else {
+      alert('MetaMask is not installed!');
+    }
+  }}
+  className="tf-button connect"
+>
+  <i className="icon-fl-wallet" />
+  <span>CONNECT</span>
+</a>
                                 </div>
                                 <div className="d-block d-lg-none">
                                     <div className={`mobile-button d-block ${isMobileMenu ? "active" : ""}`} onClick={handleMobileMenu}><span /></div>{/* /.mobile-button */}

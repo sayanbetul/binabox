@@ -10,7 +10,7 @@ export default function Work1() {
                     <div className="row">
                         <div className="col-md-12 ">
                             <div className="tf-heading mb60 wow fadeInUp">
-                                <h2 className="heading">HOW TO <span> BINABOX </span>WORK</h2>
+                                <h2 className="heading">HOW TO <span> THETA </span>WORK</h2>
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-6 col-md-6 ">
@@ -19,8 +19,7 @@ export default function Work1() {
                                     <img className="work-image" id="work-1" src="/assets/images/svg/work-1.svg" alt="Image" />
                                 </div>
                                 <h6 className="title"><Link href="#">CONNECT THE WALLET</Link></h6>
-                                <p className="content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                    dolore eu fugiat.</p>
+                                <p className="content">Connect your Metamask Account</p>
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-6 col-md-6 ">
@@ -29,8 +28,7 @@ export default function Work1() {
                                     <img className="work-image" id="work-2" src="/assets/images/svg/work-2.svg" alt="Image" />
                                 </div>
                                 <h6 className="title"><Link href="#">SELLECT THE QUAILITY</Link></h6>
-                                <p className="content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                    dolore eu fugiat.</p>
+                                <p className="content"></p>
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-6 col-md-6 ">
@@ -39,8 +37,7 @@ export default function Work1() {
                                     <img className="work-image" id="work-3" src="/assets/images/svg/work-3.svg" alt="Image" />
                                 </div>
                                 <h6 className="title"><Link href="#">CONFIRM THE TRANSACTION</Link></h6>
-                                <p className="content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                    dolore eu fugiat.</p>
+                                <p className="content"></p>
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-6 col-md-6 ">
@@ -49,8 +46,7 @@ export default function Work1() {
                                     <img className="work-image" id="work-4" src="/assets/images/svg/work-4.svg" alt="Image" />
                                 </div>
                                 <h6 className="title"><Link href="#">RECEIVE YOUR NFTS</Link></h6>
-                                <p className="content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                    dolore eu fugiat.</p>
+                                <p className="content"></p>
                             </div>
                         </div>
                     </div>

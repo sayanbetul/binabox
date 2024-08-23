@@ -36,7 +36,7 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-1.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Ralph Edwards</Link></h4>
+                                <h4 className="name"><Link href="/team">BETÜL SAYAN</Link></h4>
                                 <p className="position">Founder</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
@@ -51,8 +51,8 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-2.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Jason Smith</Link></h4>
-                                <p className="position">Co - Founder</p>
+                                <h4 className="name"><Link href="/team">MELİH GÜNDÜZ</Link></h4>
+                                <p className="position">CTO</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                     <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
@@ -66,8 +66,8 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-3.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Tony Wings</Link></h4>
-                                <p className="position">Web Designer</p>
+                                <h4 className="name"><Link href="/team"></Link></h4>
+                                <p className="position"></p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                     <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
@@ -81,8 +81,8 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-4.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Esther Howard</Link></h4>
-                                <p className="position">Project Manager</p>
+                                <h4 className="name"><Link href="/team"></Link></h4>
+                                <p className="position"></p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                     <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
@@ -96,8 +96,8 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-5.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Jenny Wilson</Link></h4>
-                                <p className="position">Artist</p>
+                                <h4 className="name"><Link href="/team"></Link></h4>
+                                <p className="position"></p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                     <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
@@ -111,8 +111,8 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-6.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Robert Fox</Link></h4>
-                                <p className="position">UI/UX Designer</p>
+                                <h4 className="name"><Link href="/team"></Link></h4>
+                                <p className="position"></p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                     <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
@@ -126,8 +126,8 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-7.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Devon Lane</Link></h4>
-                                <p className="position">Ux Architect</p>
+                                <h4 className="name"><Link href="/team"></Link></h4>
+                                <p className="position"></p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                     <li><Link href="#"><i className="fab fa-facebook" /></Link></li>

@@ -73,7 +73,7 @@ export default function Footer1() {
                         <div className="row">
                             <div className="col-md-12">
                                 <div className="bottom">
-                                    <p className="copy-right">BINABOX {new Date().getFullYear()} - ALL rights reserved</p>
+                                    <p className="copy-right">THETA {new Date().getFullYear()} - ALL rights reserved</p>
                                     <ul className="social-item">
                                         <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
                                         <li><Link href="#"><i className="fab fa-facebook" /></Link></li>

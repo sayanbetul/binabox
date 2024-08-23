@@ -54,7 +54,11 @@ export default function About1() {
                                     </div>
                                     <div className="tf-heading">
                                         <h2 className="heading wow fadeInUp">THE STORY</h2>
-                                        <p className="sub-heading wow fadeInUp">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat</p>
+                                        <p className="sub-heading wow fadeInUp">Welcome to Theta Collectibles – where your astrological data transforms into a one-of-a-kind digital treasure! Each NFT encapsulates your unique astrological profile, representing:
+
+🌟 Your Birth Chart: An exclusive snapshot of the stars at the moment you were born.
+🪐 Celestial Influences: The 8 ruling planets and their alignment in your personal astrological journey.
+🔮 Astrological Outcomes: The 12 signs and their impact on your destiny.</p>
                                     </div>
                                     <div className="counter-wrap">
                                         <div className="tf-counter wow fadeInUp">
@@ -131,7 +135,7 @@ export default function About1() {
                                         <div className="image">
                                             <img src="/assets/images/team/team-1.jpg" alt="Image" />
                                         </div>
-                                        <h4 className="name"><Link href="/team">Ralph Edwards</Link></h4>
+                                        <h4 className="name"><Link href="/team">BETÜL SAYAN</Link></h4>
                                         <p className="position">Founder</p>
                                         <ul className="social">
                                             <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
@@ -146,8 +150,8 @@ export default function About1() {
                                         <div className="image">
                                             <img src="/assets/images/team/team-2.jpg" alt="Image" />
                                         </div>
-                                        <h4 className="name"><Link href="/team">Jason Smith</Link></h4>
-                                        <p className="position">Co - Founder</p>
+                                        <h4 className="name"><Link href="/team">MELİH GÜNDÜZ</Link></h4>
+                                        <p className="position">CTO</p>
                                         <ul className="social">
                                             <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
                                             <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
@@ -257,7 +261,7 @@ export default function About1() {
                             <div className="row">
                                 <div className="col-md-12 ">
                                     <div className="tf-heading mb60 ">
-                                        <h2 className="heading"><span>BINABOX</span> PARTNER</h2>
+                                        <h2 className="heading"><span>THETA</span> PARTNER</h2>
                                     </div>
                                 </div>
                                 <div className="col-md-12 ">
