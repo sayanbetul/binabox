@@ -68,7 +68,7 @@ export default function Team() {
                                                 <span className="icon">
                                                     <img src="/assets/images/svg/phone-2.svg" alt="Image" />
                                                 </span>
-                                                <p>+90 5424683643</p>
+                                                <p>+90 </p>
                                             </div>
                                         </div>
                                         <ul className="social-item">
@@ -117,9 +117,7 @@ export default function Team() {
                                         <div className="image">
                                             <img src="/assets/images/team/team-1.jpg" alt="Image" />
                                         </div>
-                                        <h4 className="name"><Link href="/team">BETÜL
-
-BETÜL</Link></h4>
+                                        <h4 className="name"><Link href="/team">BETÜL SAYAN</Link></h4>
                                         <p className="position">Founder</p>
                                         <ul className="social">
                                             <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>

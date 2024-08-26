@@ -84,7 +84,7 @@ export default function Roadmap3() {
                                                                         </clipPath>
                                                                     </defs>
                                                                 </svg></div>
-                                                                Befriending &amp; Chat Functions
+                                                               Conduct market research and select technologies
                                                             </li>
                                                             <li>
                                                                 <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -204,7 +204,7 @@ export default function Roadmap3() {
                                                                         </clipPath>
                                                                     </defs>
                                                                 </svg></div>
-                                                                Befriending &amp; Chat Functions
+                                                               Conduct market research and select technologies
                                                             </li>
                                                             <li>
                                                                 <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -324,7 +324,7 @@ export default function Roadmap3() {
                                                                         </clipPath>
                                                                     </defs>
                                                                 </svg></div>
-                                                                Befriending &amp; Chat Functions
+                                                               Conduct market research and select technologies
                                                             </li>
                                                             <li>
                                                                 <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -438,7 +438,7 @@ export default function Roadmap3() {
                                                                         </clipPath>
                                                                     </defs>
                                                                 </svg></div>
-                                                                Befriending &amp; Chat Functions
+                                                               Conduct market research and select technologies
                                                             </li>
                                                             <li>
                                                                 <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -550,7 +550,7 @@ export default function Roadmap3() {
                                                                         </clipPath>
                                                                     </defs>
                                                                 </svg></div>
-                                                                Befriending &amp; Chat Functions
+                                                               Conduct market research and select technologies
                                                             </li>
                                                             <li>
                                                                 <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -662,7 +662,7 @@ export default function Roadmap3() {
                                                                         </clipPath>
                                                                     </defs>
                                                                 </svg></div>
-                                                                Befriending &amp; Chat Functions
+                                                               Conduct market research and select technologies
                                                             </li>
                                                             <li>
                                                                 <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -774,7 +774,7 @@ export default function Roadmap3() {
                                                                         </clipPath>
                                                                     </defs>
                                                                 </svg></div>
-                                                                Befriending &amp; Chat Functions
+                                                               Conduct market research and select technologies
                                                             </li>
                                                             <li>
                                                                 <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">

@@ -10,7 +10,7 @@ export default function Accordion1() {
         <>
             <div className="tf-flat-accordion2">
                 <div className="flat-toggle2 active">
-                    <h6  className={isActive === 1 ? "toggle-title active" : "toggle-title"} onClick={() => handleClick(1)}>What are the NFTs?</h6>
+                    <h6  className={isActive === 1 ? "toggle-title active" : "toggle-title"} onClick={() => handleClick(1)}>Who we are?</h6>
                     <div className="toggle-content" style={{ display: `${isActive === 1 ? "block" : "none"}` }}>
                         <p>Welcome to Theta Collectibles – where your astrological data transforms into a one-of-a-kind digital treasure! Each NFT encapsulates your unique astrological profile, representing:
 

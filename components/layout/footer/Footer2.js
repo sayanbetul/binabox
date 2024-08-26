@@ -10,7 +10,7 @@ export default function Footer2() {
                         <div className="row">
                             <div className="col-md-12">
                                 <h2 className="title">JOIN OUR COMMUNITY</h2>
-                                <p className="content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                <p className="content"> </p>
                                 <div className="group-btn">
                                     <Link href="#" className="tf-button discord" data-toggle="modal" data-target="#popup_bid"><i className="icon-fl-vt" /><span>DISCORD</span></Link>
                                     <Link href="/collection" className="tf-button">WHITELIST NOW</Link>

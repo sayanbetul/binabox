@@ -11,7 +11,7 @@ export default function Footer1() {
                             <div className="col-md-12">
                                 <div className="action-box-inner">
                                     <h2 className="title">JOIN OUR COMMUNITY</h2>
-                                    <p className="content">Lorem Ipsum is simply dummy text of the printing and typesetting
+                                    <p className="content">
                                         industry. </p>
                                     <div className="group-btn">
                                         <Link href="/contact" className="tf-button discord" data-toggle="modal" data-target="#popup_bid"><i className="icon-fl-vt" /><span>DISCORD</span></Link>
@@ -30,7 +30,7 @@ export default function Footer1() {
                                     <div className="logo">
                                         <img id="logo_footer" src="/assets/images/logo/logo-footer.png" alt="Image" />
                                     </div>
-                                    <p className="content">We are the best way to check the rarity of NFT collection.</p>
+                                    <p className="content"></p>
                                 </div>
                             </div>
                             <div className="col-xl-4 col-lg-4 col-md-12">

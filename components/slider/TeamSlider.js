@@ -43,10 +43,10 @@ export default function TeamSlider() {
                                 <h4 className="name"><Link href="/team">BETÜL SAYAN</Link></h4>
                                 <p className="position">Founder</p>
                                 <ul className="social">
-                                    <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li>
+                                <li><Link href="https://www.linkedin.com/in/betul-sayan/"><i className="fab fa-linkedin" /></Link></li>
+                                    <li><Link href="https://www.linkedin.com/in/betul-sayan/"><i className="fab fa-facebook" /></Link></li>
+                                    <li><Link href="https://www.instagram/bettt96"><i className="fab fa-instagram" /></Link></li>
+                                    <li><Link href="https://t.me/venus096"><i className="fab fa-telegram" /></Link></li>
                                 </ul>
                             </div>
                         </div>{/* item*/}

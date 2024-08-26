@@ -22,8 +22,8 @@ export default function SignUp() {
                                     </form>
                                     <div className="or"><span>login with</span></div>
                                     <div className="box-sign-social">
-                                        <Link className="tf-button" href="#"><i className="fab fa-google" />Google</Link>
-                                        <Link className="tf-button" href="#"><i className="fab fa-facebook-f" />Facebook</Link>
+                                    <Link className="tf-button" href="https://mail.google.com/mail/u/0/"><i className="fab fa-google" />Google</Link>
+                                    <Link className="tf-button" href="https://www.facebook.com/login.php/"><i className="fab fa-facebook-f" />Facebook</Link>
                                     </div>
                                 </div>
                             </div>

@@ -805,7 +805,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                       Conduct market research and select technologies
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -952,7 +952,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                       Conduct market research and select technologies
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -1099,7 +1099,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                       Conduct market research and select technologies
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -1246,7 +1246,7 @@ export default function RoadMapThumbSlider() {
                                                 </clipPath>
                                             </defs>
                                         </svg></div>
-                                        Befriending &amp; Chat Functions
+                                       Conduct market research and select technologies
                                     </li>
                                     <li>
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">

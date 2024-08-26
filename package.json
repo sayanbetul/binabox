@@ -10,6 +10,7 @@
         "sass": "sass --watch public/assets/scss/main.scss:public/assets/css/main.css"
     },
     "dependencies": {
+        "ethers": "^6.13.2",
         "next": "14.1.4",
         "react": "18.2.0",
         "react-countup": "^6.5.3",

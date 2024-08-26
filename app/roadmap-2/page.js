@@ -75,7 +75,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Befriending &amp; Chat Functions
+                                                   Conduct market research and select technologies
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -101,7 +101,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Challenging Feature
+                                                	Design the application’s architectu
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -127,7 +127,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Corsair Wheel
+                                                    	Develop an initial prototype
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -195,7 +195,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Befriending &amp; Chat Functions
+                                                    Build backend and APIs
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -221,7 +221,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Challenging Feature
+                                                    Design UI and implement core features
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -247,7 +247,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Corsair Wheel
+                                                	Integrate Theta tokens and smart contracts.
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -273,7 +273,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Mobile Version Launch
+                                                    Perform testing
                                                 </li>
                                             </ul>
                                         </div>
@@ -313,7 +313,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Befriending &amp; Chat Functions
+                                                	Release to limited users for feedback
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -339,7 +339,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Challenging Feature
+                                                    Fix bugs and conduct a security audit
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -363,7 +363,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Corsair Wheel
+                                                    
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -387,7 +387,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Mobile Version Launch
+                                                  
                                                 </li>
                                             </ul>
                                         </div>
@@ -426,7 +426,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Befriending &amp; Chat Functions
+                                                    Launch to a broader audience
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -450,7 +450,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Challenging Feature
+                                                    Implement marketing strategies
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -474,7 +474,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Corsair Wheel
+                                                    Establish user support
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -498,7 +498,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Mobile Version Launch
+                                                
                                                 </li>
                                             </ul>
                                         </div>
@@ -537,7 +537,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Befriending &amp; Chat Functions
+                                                    Add new features and optimize performan
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -561,7 +561,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Challenging Feature
+                                                Engage with the community for feedback
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -585,7 +585,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Corsair Wheel
+                                                
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -609,7 +609,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Mobile Version Launch
+                                                  
                                                 </li>
                                             </ul>
                                         </div>
@@ -648,7 +648,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Befriending &amp; Chat Functions
+                                                    Collaborate with Artist
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -672,7 +672,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Challenging Feature
+                                                    Commission Setup
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -696,7 +696,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Corsair Wheel
+                                                	Gather Feedback
                                                 </li>
                                                 <li>
                                                     <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width={16} height={18} viewBox="0 0 16 18" fill="none">
@@ -720,7 +720,7 @@ export default function Roadmap2() {
                                                             </clipPath>
                                                         </defs>
                                                     </svg></div>
-                                                    Mobile Version Launch
+                                                	Run Campaigns
                                                 </li>
                                             </ul>
                                         </div>
