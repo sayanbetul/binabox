@@ -17,7 +17,7 @@ export default function Slider1() {
     const [birthdate, setBirthdate] = useState('');
     const [minting, setMinting] = useState(false);
     const [status, setStatus] = useState(false);
-
+    const [nftImage, setNftImage] = useState(null);
 
     
     const handleConnect = async () => {
@@ -56,7 +56,7 @@ export default function Slider1() {
          
           const mintPrice = ethers.utils.parseEther("0.0011");
           console.log(mintPrice);
-          const stringToConvert = "https://brown-impressive-ptarmigan-546.mypinata.cloud/ipfs/QmVQMZmoffk1FMvipFZWiUD7aG9buvoGNMEUHQ5BMLejYk";
+          const stringToConvert = "https://brown-impressive-ptarmigan-546.mypinata.cloud/ipfs/QmW6m9KWUe84zZkyWMrXBDfJXSyWPsfd3VEA8qLJ3gGu2J";
           const bytes32Hash = ethers.utils.keccak256(ethers.utils.toUtf8Bytes(stringToConvert));
     
           await contract.getMinterRole();
@@ -67,9 +67,10 @@ export default function Slider1() {
           await tx.wait();
           setStatus("Minting completed!");
           console.log("Minting completed!");
-        
+     
           const response = await fetch(`https://brown-impressive-ptarmigan-546.mypinata.cloud/ipfs/QmW6m9KWUe84zZkyWMrXBDfJXSyWPsfd3VEA8qLJ3gGu2J`);
           const metadata = await response.json();
+          console.log("NFT Metadata:", metadata); // Metadata'yı konsola yazdır
           setNftImage(metadata.image); // Extract image URL from metadata
         } catch (error) {
           console.error(error);
@@ -145,6 +146,13 @@ export default function Slider1() {
                                                                 >
                                                                     {minting ? 'MINTING...' : 'MINT NFT'}
                                                                 </button>
+                                                                <div className="nft-image">
+    {nftImage ? (
+        <img src={nftImage} alt="Minted NFT" className="minted-nft" />
+    ) : (
+        <p>No NFT image available</p>
+    )}
+</div>
                                                             </div>
                                                         </>
                                                     )}
